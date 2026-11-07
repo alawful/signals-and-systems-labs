@@ -1,6 +1,6 @@
 # Signals and systems labs
 
-This repository collects six MATLAB-based Signals and Systems assignments completed at the University of Tehran. The work moves from basic signal manipulation and correlation to image processing, simple communication schemes, and Simulink system models.
+This repository collects seven MATLAB-based Signals and Systems assignments completed at the University of Tehran. The work moves from basic signal manipulation and correlation to image processing, simple communication schemes, symbolic differential equations, and Simulink system models.
 
 ## What is included
 
@@ -10,8 +10,9 @@ This repository collects six MATLAB-based Signals and Systems assignments comple
 - `ca4-amplitude-coding/` builds a small amplitude-coded communication chain with character mapping, modulation, correlation-based decoding, and Gaussian-noise tests.
 - `ca5-frequency-coding/` explores frequency-based coding and decoding, signal construction, and related experiments.
 - `ca6-signals-and-simulink/` includes MATLAB scripts and Simulink models for signal generation and differential-equation/system-response exercises.
+- `ca7-symbolic-and-simulink-models/` compares symbolic differential-equation work with several continuous-time Simulink block diagrams.
 
-The filenames retain the original assignment numbering. Each of the first four folders has a short README describing the code and any missing inputs.
+The filenames retain the original assignment numbering. The added folders include short READMEs describing the code and any missing inputs.
 
 ## Running the work
 
